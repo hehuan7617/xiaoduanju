@@ -8,6 +8,7 @@
 tmp/
 *.tmp
 *.log
+tools/
 
 # 系统文件
 Thumbs.db
